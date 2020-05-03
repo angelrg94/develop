@@ -1,0 +1,2 @@
+URL para acceder a la configuracion en el config server
+http://localhost:8888/limits-service/dev
